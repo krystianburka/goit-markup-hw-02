@@ -2,15 +2,26 @@
     font-family:'Roboto';
     text-align: center;
     color: #212121;
-
+   
 }
+
 .logo {
     
 }
+
 .link {
 color: #757575;
 text-decoration: none;
-
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 171%;
+letter-spacing: 0.02em;
+}
+.link:hover {
+    color: greenyellow;
+    
+    background-color: #FFFFFF;
 }
 
 .address {
@@ -37,10 +48,25 @@ background-color: #757575;
 }
 
 .buttons {
-    color: greenyellow;
+    
+    transition-duration: 0,4s;
+    font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 162%;
+/* identical to box height, or 162% */
+text-align: center;
+letter-spacing: 0.03em;
+cursor: pointer;
+color:  #212121;
 
 }
+.buttons:hover {
+    color: greenyellow;
+    
+    background-color: #FFFFFF;
 
+}
 /* .footerlinks{
     position: absolute;
 } */
@@ -51,3 +77,22 @@ background-color: #757575;
     
 }
 
+.header {
+    font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 200%;
+/* identical to box height, or 200% */
+letter-spacing: 0.06em;
+}
+
+.description {
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 188%;
+/* identical to box height, or 188% */
+letter-spacing: 0.03em;
+
+color: #757575;
+}
