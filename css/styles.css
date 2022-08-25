@@ -1,98 +1,86 @@
 .whattodo {
-    font-family:'Roboto';
-    text-align: center;
-    color: #212121;
-   
+  font-family: "Roboto";
+  text-align: center;
+  color: #212121;
 }
-
-.logo {
-    
-}
-
 .link {
-color: #757575;
-text-decoration: none;
-font-style: normal;
-font-weight: 500;
-font-size: 14px;
-line-height: 171%;
-letter-spacing: 0.02em;
+  color: #757575;
+  text-decoration: none;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 171%;
+  letter-spacing: 0.02em;
 }
 .link:hover {
-    color: greenyellow;
-    
-    background-color: #FFFFFF;
+  color: greenyellow;
+
+  background-color: #ffffff;
 }
 
 .address {
-color: #FFFFFF;
+  color: #ffffff;
 
-/* width: 247px;
+  /* width: 247px;
 height: 21px;
 left: 215px;
 top: 1739px; */
-position: absolute;
+  position: absolute;
 
-font-size: 14px;
-font-weight: 400;
-line-height: 24px;
-font-style: normal;
-letter-spacing: 0.03em;
-font-family: 'Roboto';
-
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  font-style: normal;
+  letter-spacing: 0.03em;
+  font-family: "Roboto";
 }
 
 .kontakt {
-background-color: #757575;
-
+  background-color: #757575;
 }
 
 .buttons {
-    
-    transition-duration: 0,4s;
-    font-style: normal;
-font-weight: 500;
-font-size: 16px;
-line-height: 162%;
-/* identical to box height, or 162% */
-text-align: center;
-letter-spacing: 0.03em;
-cursor: pointer;
-color:  #212121;
-
+  transition-duration: 0, 4s;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 162%;
+  /* identical to box height, or 162% */
+  text-align: center;
+  letter-spacing: 0.03em;
+  cursor: pointer;
+  color: #212121;
 }
 .buttons:hover {
-    color: greenyellow;
-    
-    background-color: #FFFFFF;
+  color: greenyellow;
 
+  background-color: #ffffff;
 }
 /* .footerlinks{
     position: absolute;
 } */
 
 .footer {
-    background-color: #2f303a;
-    background-size: 1600px 252px 0px 1628px;
-    
+  background-color: #2f303a;
+  background-size: 1600px 252px 0px 1628px;
 }
 
 .header {
-    font-style: normal;
-font-weight: 700;
-font-size: 18px;
-line-height: 200%;
-/* identical to box height, or 200% */
-letter-spacing: 0.06em;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 200%;
+  /* identical to box height, or 200% */
+  letter-spacing: 0.06em;
 }
 
 .description {
-    font-style: normal;
-font-weight: 400;
-font-size: 16px;
-line-height: 188%;
-/* identical to box height, or 188% */
-letter-spacing: 0.03em;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 188%;
+  /* identical to box height, or 188% */
+  letter-spacing: 0.03em;
 
-color: #757575;
+  color: #757575;
 }
